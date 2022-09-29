@@ -1,0 +1,1 @@
+# cusat-lab-template
